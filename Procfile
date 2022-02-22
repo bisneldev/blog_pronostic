@@ -1,0 +1,1 @@
+web: gunicorn pronostic.wsgi --log-file -
